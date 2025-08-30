@@ -80,6 +80,7 @@ flutter:
 
 dependency_overrides:
   analyzer_plugin: ^0.13.1
+  json_serializable: ^6.9.5
 
 flutter_gen:
   output: lib/src/constants/gen/
