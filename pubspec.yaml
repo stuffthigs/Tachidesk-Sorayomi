@@ -78,6 +78,9 @@ flutter:
     - assets/icons/
     - assets/icons/launcher/
 
+dependency_overrides:
+  analyzer_plugin: ^0.13.1
+
 flutter_gen:
   output: lib/src/constants/gen/
 
